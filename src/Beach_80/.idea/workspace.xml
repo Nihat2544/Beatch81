@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f780da8-b280-47e2-a6f4-b4163f2db308" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day40_final/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_final/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_final/CAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_final/DChildAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_collections/C02_ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_collections/C03_ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_collections/C04_LinkedList_ListDataTuru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_collections/C05_linkedList_QueueDataTuru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_collections/C06_LinkedList_DequeDataTuru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45_collections/C01_Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day45_collections/C02_CollectionsDataTuru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_maps/C03_Update.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tekrarlar/Forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tekrarlar/Forloop2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day42_abstractClass_interfaces/I02_Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day42_abstractClass_interfaces/I02_Interfaces.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D82dSQl8rNmxdXeN5VIBZsi99k" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nihatkizilkula/Desktop/Beach/Beach_80&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KChildClassOfInterfaces">
+    <configuration name="C01_Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beach_80.src.day41_abstractClass_Inteface.C01_Exceptions" />
+      <module name="Beach_80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Beach_80.src.day41_abstractClass_Inteface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Forloop2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beach_80.src.tekrarlar.Forloop2" />
+      <module name="Beach_80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Beach_80.src.tekrarlar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fp01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beach_80.src.lambda_functional_programing01.Fp01" />
+      <module name="Beach_80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Beach_80.src.lambda_functional_programing01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fp02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beach_80.src.lambda_functional_programing01.Fp02" />
+      <module name="Beach_80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Beach_80.src.lambda_functional_programing01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KChildClassOfInterfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beach_80.src.day42_abstractClass_interfaces.KChildClassOfInterfaces" />
+      <module name="Beach_80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Beach_80.src.day42_abstractClass_interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KChildClassOfInterfaces" />
+        <item itemvalue="Application.Fp02" />
+        <item itemvalue="Application.Fp01" />
+        <item itemvalue="Application.C01_Exceptions" />
+        <item itemvalue="Application.Forloop2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f780da8-b280-47e2-a6f4-b4163f2db308" name="Changes" comment="" />
+      <created>1660066477753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660066477753</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
